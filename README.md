@@ -18,7 +18,7 @@ The project involves designing, developing and implementing a network solution f
 
 **Project Manager**
 
-- Coordinate the group of 4
+- Coordinate the group of 3
 - Manage project progress and tasks
 - Lead project presentations
 - Oversee **Stage 3 – Network Development & Implementation**
